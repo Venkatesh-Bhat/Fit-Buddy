@@ -9,7 +9,9 @@ This project is built on React-Native (Expo Go) and Express.js.
 5.  Create a new project in MongoDB.
 6.  Create a `.env` file in the `backend` directory with the following variables: `MONGO_URI` and `PORT`
 7.  Assign the obtained url from MongoDB to `MONGO_URI` and initialize `PORT` to 5000.
+
     ### Example:
+
          MONGO_URI="url_from_mongodb"
          PORT=5000
 
@@ -24,3 +26,20 @@ This project is built on React-Native (Expo Go) and Express.js.
 
 Note: Make sure you have Expo Go installed on your mobile device and you are connected to the same
 network as your development machine.
+
+## Snapshots:
+
+![Login Page](./frontend/assets/login-page.png)
+![Signup Page](./frontend/assets/signup-page.png)
+![Dashboard Page](./frontend/assets/dashboard.png)
+![Personalized Workouts](./frontend/assets/personalized-workout.png)
+![Workout Page](./frontend/assets/workout.png)
+![Workout Details Page](./frontend/assets/workout-detail.png)
+![Food Page](./frontend/assets/food-page.png)
+![Food Detail Page](./frontend/assets/food-detail.png)
+![Recipe Page](./frontend/assets/recipe-page.png)
+![Recipe Detail Page](./frontend/assets/recipe-detail.png)
+![Creating meal](./frontend/assets/meal-creation.png)
+![Adding food to meals](./frontend/assets/add-food-to-meal.png)
+![Creating Diet Plan](./frontend/assets/diet-plan-creation.png)
+![Diet Plan Page](./frontend/assets/diet-plan-page.png)
